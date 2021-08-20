@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:71f5f278e71ee7184aecbd0a6731b6bb329aeb51817456e5323ebc5676c13e22
-size 1016
+<?xml version="1.0" ?>
+<counts desc="Fall 2015 typcl wkdys" layer="0" name="Fall 2015 - W" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://matsim.org/files/dtd/counts_v1.xsd" year="2015">
+  <count cs_id="1" loc_id="1">
+    <volume h="1" val="168"/>
+    <volume h="2" val="111"/>
+    <volume h="3" val="73"/>
+    <volume h="4" val="49"/>
+    <volume h="5" val="57"/>
+    <volume h="6" val="100"/>
+    <volume h="7" val="189"/>
+    <volume h="8" val="293"/>
+    <volume h="9" val="329"/>
+    <volume h="10" val="331"/>
+    <volume h="11" val="339"/>
+    <volume h="12" val="350"/>
+    <volume h="13" val="369"/>
+    <volume h="14" val="377"/>
+    <volume h="15" val="444"/>
+    <volume h="16" val="417"/>
+    <volume h="17" val="378"/>
+    <volume h="18" val="316"/>
+    <volume h="19" val="331"/>
+    <volume h="20" val="410"/>
+    <volume h="21" val="378"/>
+    <volume h="22" val="346"/>
+    <volume h="23" val="292"/>
+    <volume h="24" val="238"/>
+  </count>
+</counts>
